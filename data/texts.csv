@@ -1,0 +1,11 @@
+text
+"This is the first text entry. It contains some example sentences for analysis."
+"Here is another text entry, which also includes different example sentences for testing purposes."
+"A third text entry to demonstrate how the CSV file should be structured."
+"Yet another example of a text entry that can be analyzed by the text analysis project."
+"This is the fifth example text. It contains several sentences that need to be cleaned and processed."
+"Additional text entry with various content to ensure the robustness of the preprocessing steps."
+"This is the seventh text entry with a slightly different structure to test the model's performance."
+"Example of an eighth text entry with more varied content for thorough analysis."
+"Ninth text entry with different sentences to test the tokenization and stopword removal."
+"The tenth and final example text entry for the CSV file. It should cover different cases."

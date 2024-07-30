@@ -1,0 +1,6 @@
+pandas
+nltk
+matplotlib
+tensorflow
+scikit-learn
+sqlite3
